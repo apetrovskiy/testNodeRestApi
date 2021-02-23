@@ -1,0 +1,18 @@
+[0m2021.02.23 09:59:21 INFO  Started: Metals version 0.9.10 in workspace 'D:\Projects\Node.js\RestApiTest' for client vscode 1.54.0-insider.[0m
+[0m2021.02.23 09:59:29 INFO  time: initialize in 9s[0m
+[0m2021.02.23 09:59:33 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.23 09:59:33 WARN  no build tool detected in workspace 'D:\Projects\Node.js\RestApiTest'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Feb 23, 2021 10:04:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb 23, 2021 10:21:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb 23, 2021 10:38:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb 23, 2021 10:39:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Feb 23, 2021 10:39:59 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+[0m2021.02.23 13:16:23 INFO  Started: Metals version 0.9.10 in workspace 'D:\Projects\Node.js\RestApiTest' for client vscode 1.54.0-insider.[0m
+[0m2021.02.23 13:16:41 INFO  time: initialize in 17s[0m
+[0m2021.02.23 13:16:55 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.23 13:16:55 WARN  no build tool detected in workspace 'D:\Projects\Node.js\RestApiTest'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
