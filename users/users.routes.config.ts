@@ -7,7 +7,7 @@ export class UsersRoutes extends CommonRoutesConfig {
     }
 
     configureRoutes(): express.Application {
-        // TODO: add the funcitonality
+        // TODO: add the functionality
         return this.app;
     }
 }
